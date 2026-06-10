@@ -10,3 +10,18 @@
 <li>Monitor customer demographics including age, gender, income, and occupation.</li>
 <li>Generate business insights to support data-driven decision-making.</li>
 </ul>
+
+<h3>Tools & Technologies</h3>
+Python (Pandas, NumPy)
+SQL
+Power BI
+Excel
+
+<h3>Key Features</h3>
+<ul>
+  <li>Data cleaning and preprocessing using Python.</li>
+<li>SQL queries for data extraction and analysis.</li>
+<li>Interactive Power BI dashboard with KPIs and visualizations.</li>
+<li>Customer segmentation based on demographics and spending behavior.</li>
+<li>Revenue and transaction performance analysis.</li>
+<li>Business insights for customer retention and profitability improvement.</li></ul>
