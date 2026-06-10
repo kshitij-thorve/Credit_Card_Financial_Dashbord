@@ -27,7 +27,7 @@ Excel
 <li>Business insights for customer retention and profitability improvement.</li></ul>
 
 <h3>Key Insights</h3>
-<li>Identified top-performing customer segments contributing maximum revenue.</li>
+<ul><li>Identified top-performing customer segments contributing maximum revenue.</li>
 <li>Analyzed transaction patterns across different customer groups.</li>
 <li>Evaluated spending behavior based on income, age, and occupation.</li>
-<li>Tracked overall revenue growth and transaction trends.</li>
+<li>Tracked overall revenue growth and transaction trends.</li></ul>
