@@ -1,2 +1,2 @@
-<h5>Credit Card Customer & Transaction Analysis Dashboard</h5>
+<h2>Credit Card Customer & Transaction Analysis Dashboard</h2>
 
