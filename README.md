@@ -25,3 +25,9 @@ Excel
 <li>Customer segmentation based on demographics and spending behavior.</li>
 <li>Revenue and transaction performance analysis.</li>
 <li>Business insights for customer retention and profitability improvement.</li></ul>
+
+<h3>Key Insights</h3>
+Identified top-performing customer segments contributing maximum revenue.
+Analyzed transaction patterns across different customer groups.
+Evaluated spending behavior based on income, age, and occupation.
+Tracked overall revenue growth and transaction trends.
